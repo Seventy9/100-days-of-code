@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [Angela Yu's "The Complete 2020 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 2. [Frontend Masters Bootcamp](https://frontendmasters.com/bootcamp/)
+
+### Day 1: July 13th, Monday
+
+**Today's Progress**: Watched more Frontend Masters Bootcamp, started working on "Advent of Code".
+
+**Thoughts** I completed the first half of the first "Advent of Code" puzzle with ease, the second half is a bit more challenging.  It requires a bit more thought.  Frontend Masters Bootcamp progress is on to JS now, I need more exposure to it.
+
+**Link(s) to work**
+1. [Frontend Masters Bootcamp](https://frontendmasters.com/bootcamp/)
+2. [Advent of Code](https://adventofcode.com/)

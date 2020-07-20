@@ -19,3 +19,13 @@
 **Link(s) to work**
 1. [Frontend Masters Bootcamp](https://frontendmasters.com/bootcamp/)
 2. [Advent of Code](https://adventofcode.com/)
+
+### Day 2: July 20th, Monday
+
+**Today's Progress**: Completed "Responsive Web Design" course on freeCodeCamp and finished the 1st of 5 projects.
+
+**Thoughts** As I had already learned HTML and CSS from the Udemy course "The Complete 2020 Web Development Bootcamp", I moved swiftly through all the lessons of "Responsive Web Design" completing all tests with relative ease. However, the first project, copying the Tribute Page, took quite a while as I wrote it from scratch and made a few errors along the way regarding the layout, but in the end they were easily fixed. It's not perfect, but it passed all the tests.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/)
+2. [Completed project](https://codepen.io/Seventy9/pen/NWxejbW)

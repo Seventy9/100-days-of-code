@@ -29,3 +29,13 @@
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/)
 2. [Completed project](https://codepen.io/Seventy9/pen/NWxejbW)
+
+### Day 3: July 21st, Tuesday
+
+**Today's Progress**: Completed 2nd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+
+**Thoughts** Getting the HTML written up for this was very quick and easy, took about half an hour. The next couple of hours were spent playing with CSS to get it looking how I wanted. I still have a few issues that I will spend some time to ask around and investigate to see how to fix them, but overall I am very happy with the way it turned out. The CSS can use some serious refactoring, I am aware, but for right now, typing the same code over and over is an assistant to learning for me. I know it can be done better and more streamlined, so I don't believe this is me learning bad habits early on.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/)
+2. [Completed project](https://seventy9.github.io/fcc-rwd-2/)

@@ -28,7 +28,7 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/)
-2. [Completed project](https://codepen.io/Seventy9/pen/NWxejbW)
+2. [Completed 1st project](https://codepen.io/Seventy9/pen/NWxejbW)
 
 ### Day 3: July 21st, Tuesday
 
@@ -38,4 +38,14 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/)
-2. [Completed project](https://seventy9.github.io/fcc-rwd-2/)
+2. [Completed 2nd project](https://seventy9.github.io/fcc-rwd-2/)
+
+### Day 4: July 23st, Thursday
+
+**Today's Progress**: Started 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+
+**Thoughts** Working on the 3rd challenge of "Responsive Web Design" and I am struggling. I am trying my best to write the page with my own CSS rather than relying on Bootstrap, however, if I were to use Bootstrap I would've finished by now. I would rather know how to do it myself properly rather than rely on a framework though. Most of the site looks OK so far, I am just struggling with the flex boxes and the responsiveness of the features and pricing sections so they change layout depending on page width.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/)
+2. [WIP 3rd project](https://seventy9.github.io/fcc-rwd-3/)

@@ -40,7 +40,7 @@
 1. [freeCodeCamp](https://www.freecodecamp.org/)
 2. [Completed 2nd project](https://seventy9.github.io/fcc-rwd-2/)
 
-### Day 4: July 23st, Thursday
+### Day 4: July 23rd, Thursday
 
 **Today's Progress**: Started 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
 

@@ -49,3 +49,13 @@
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/)
 2. [WIP 3rd project](https://seventy9.github.io/fcc-rwd-3/)
+
+### Day 5: July 24th, Friday
+
+**Today's Progress**: Completed 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+
+**Thoughts** Finally completed the 3rd project on "Responsive Web Design" course with freeCodeCamp. This one took a lot longer as I had to ensure the page was responsive in all areas (navbar, features list, videos and pricing boxes) for mobile and desktop designs. This was very challenging for me as I refused to use Bootstrap in order to try and learn more about the fundamentals of HTML and CSS. I think the end result came out reasonably well.
+
+**Link(s) to work**
+1. [freeCodeCamp - Responsive Web Design - Project 3](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [Completed 3rd project](https://seventy9.github.io/fcc-rwd-3/)

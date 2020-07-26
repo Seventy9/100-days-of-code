@@ -32,7 +32,7 @@
 
 ### Day 3: July 21st, Tuesday
 
-**Today's Progress**: Completed 2nd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+**Today's Progress**: Completed the 2nd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
 
 **Thoughts** Getting the HTML written up for this was very quick and easy, took about half an hour. The next couple of hours were spent playing with CSS to get it looking how I wanted. I still have a few issues that I will spend some time to ask around and investigate to see how to fix them, but overall I am very happy with the way it turned out. The CSS can use some serious refactoring, I am aware, but for right now, typing the same code over and over is an assistant to learning for me. I know it can be done better and more streamlined, so I don't believe this is me learning bad habits early on.
 
@@ -42,7 +42,7 @@
 
 ### Day 4: July 23rd, Thursday
 
-**Today's Progress**: Started 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+**Today's Progress**: Started the 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
 
 **Thoughts** Working on the 3rd challenge of "Responsive Web Design" and I am struggling. I am trying my best to write the page with my own CSS rather than relying on Bootstrap, however, if I were to use Bootstrap I would've finished by now. I would rather know how to do it myself properly rather than rely on a framework though. Most of the site looks OK so far, I am just struggling with the flex boxes and the responsiveness of the features and pricing sections so they change layout depending on page width.
 
@@ -52,10 +52,20 @@
 
 ### Day 5: July 24th, Friday
 
-**Today's Progress**: Completed 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+**Today's Progress**: Completed the 3rd of 5 projects on "Responsive Web Design" course with freeCodeCamp.
 
 **Thoughts** Finally completed the 3rd project on "Responsive Web Design" course with freeCodeCamp. This one took a lot longer as I had to ensure the page was responsive in all areas (navbar, features list, videos and pricing boxes) for mobile and desktop designs. This was very challenging for me as I refused to use Bootstrap in order to try and learn more about the fundamentals of HTML and CSS. I think the end result came out reasonably well.
 
 **Link(s) to work**
 1. [freeCodeCamp - Responsive Web Design - Project 3](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [Completed 3rd project](https://seventy9.github.io/fcc-rwd-3/)
+
+### Day 6: July 25th, Saturday
+
+**Today's Progress**: Completed the 4th of 5 projects on "Responsive Web Design" course with freeCodeCamp.
+
+**Thoughts** I finished this project a lot quicker than others and had very few problems with working on either the layout using flexboxes or responsiveness using media queries. I think I am getting a much better grasp on this now. I started late in the day due to sleep issues, so this update comes on Sunday but is actually for Saturday.
+
+**Link(s) to work**
+1. [freeCodeCamp - Responsive Web Design - Project 4](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+2. [Completed 4th project](https://seventy9.github.io/fcc-rwd-4/)

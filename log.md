@@ -80,3 +80,12 @@
 1. [freeCodeCamp - Responsive Web Design - Project 5](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 2. [Completed 5th project](https://seventy9.github.io/fcc-rwd-5/)
 3. [Certificate gained for completing "Responsive Web Design" with freeCodeCamp](https://www.freecodecamp.org/certification/seventy9/responsive-web-design)
+
+### Day 8: July 27th, Monday
+
+**Today's Progress**: Started working on my portfolio site.
+
+**Thoughts** Took a little break from studying today, it's been a busy few days what with completing the "Responsive Web Design" course with freeCodeCamp. It's barebones at the moment, so not live, just working on layout, colours and styles. I actually have nothing of worth to put on a portfolio yet, but there's no reason why I can't get the site written up ready for me to fill out at a later date.
+
+**Link(s) to work**
+1. [Portfolio site TBC](https://github.com/Seventy9/100-days-of-code)

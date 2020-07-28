@@ -89,3 +89,12 @@
 
 **Link(s) to work**
 1. [Portfolio site TBC](https://github.com/Seventy9/100-days-of-code)
+
+### Day 9: July 28th, Tuesday
+
+**Today's Progress**: Completed the first draft of my portfolio site and uploaded it to GitHub.
+
+**Thoughts** Continued and completed the first draft of my portfolio site. Very basic for now, a little information, contact details, links etc... missing Projects as I have nothing of worth to add just yet. I still can't figure out the scaling completely, on a mobile device the size of the navbar is too small and the contact links are small too. Other than that, it looks OK to me.
+
+**Link(s) to work**
+1. [First draft of portfolio site](https://seventy9.github.io/seventy9dev/)

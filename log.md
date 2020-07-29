@@ -98,3 +98,12 @@
 
 **Link(s) to work**
 1. [First draft of portfolio site](https://seventy9.github.io/seventy9dev/)
+
+### Day 10: July 29th, Wednesday
+
+**Today's Progress**: Resolved the scaling issue on my portfolio site.
+
+**Thoughts** It turns out that not using a meta tag in your HTML head to set the viewport initial scale to one makes your website not work properly on mobile devices. Once I fixed that, I refactored almost the entire CSS code on my site to fix all the scaling issues. I also change some of the layout to improve it's looks.
+
+**Link(s) to work**
+1. [Portfolio site](https://seventy9.github.io/seventy9dev/)

@@ -107,3 +107,12 @@
 
 **Link(s) to work**
 1. [Portfolio site](https://seventy9.github.io/seventy9dev/)
+
+### Day 11: July 31st, Friday
+
+**Today's Progress**: Almost completed "Basic JavaScript" section on freeCodeCamp.
+
+**Thoughts** Learnt about JavaScript basics today, including loops, variables, arrays, multi-dimension arrays, etc. Struggled with a couple of the challenges, but after a short break I was able to return and complete them by spotting the mistakes.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)

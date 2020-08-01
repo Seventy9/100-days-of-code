@@ -116,3 +116,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 12: August 1st, Saturday
+
+**Today's Progress**: Finished off "Basic JavaScript" section on freeCodeCamp and completed "ES6" section.
+
+**Thoughts** Had a few hurdles with the Basic Javascript section, but after short breaks I was able to resolve the issues almost immediately. I think this goes to show my understanding was fine, I was just getting tunnel vision. The ES6 section however was pretty overwhelming, and although I passed all the challenges I certainly do not feel as though I understood everything properly. I may have to revisit this section.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)

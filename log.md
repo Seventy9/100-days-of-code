@@ -125,3 +125,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+### Day 13: August 2nd, Monday
+
+**Today's Progress**: Struggled through the Regular Expressions section and breezed through the Debugging section of "JavaScript Algorithms and Data Structures" on freeCodeCamp.
+
+**Thoughts** Struggled my way through the RegEx section of JavaScript on freeCodeCamp, but eventually got through. The biggest hurdle was overcome by again, take a break for an hour to eat and watch something and coming back to it. I like this way of dealing with problems when I'm learning now! The debugging section was actually very easy in comparison, mostly because I have a pretty good eve for detail and could spot the mistakes before even reading the question advising where to look.
+
+**Link(s) to work**
+1. [Regular Expressions on freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+2. [Debugging on freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)

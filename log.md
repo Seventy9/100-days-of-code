@@ -135,3 +135,12 @@
 **Link(s) to work**
 1. [Regular Expressions on freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
 2. [Debugging on freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
+
+### Day 14: August 12th, Wednesday
+
+**Today's Progress**: Completed the "Basic Algorithm Scripting" section on freeCodeCamp
+
+**Thoughts** This was an interesting section, utilising whatever skills learnt in the previous JavaScript sections to achieve the required outcome. Whilst I understood the challenges in my head immediately upon reading them, getting to the required output on some took 1-2 hours, mainly due to minor misunderstandings or typos. Some of them I completed very quickly. I think my understanding of JavaScript is much better now and I look forward to continuing "The Complete 2020 Web Development Bootcamp" on Udemy. 
+
+**Link(s) to work**
+1. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
